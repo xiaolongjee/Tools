@@ -1,1 +1,1 @@
-## A gtest tool for build Project!
+## A gtest tool for building Project!
